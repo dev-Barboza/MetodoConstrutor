@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.exe
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.deps.json
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.runtimeconfig.json
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.runtimeconfig.dev.json
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.dll
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.pdb
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.AssemblyInfo.cs
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.dll
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.pdb
+C:\Users\maheu\Documents\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.genruntimeconfig.cache
